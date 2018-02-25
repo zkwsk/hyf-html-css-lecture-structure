@@ -12,6 +12,8 @@
 * ask the questions from the bullet points mentioned in the [Week0/Readme.md](https://github.com/HackYourFuture-CPH/HTML-CSS/tree/master/Week0) (explain in own words)
 * ask what is ARIA (explain in own words)
 
+* [The first webpage](http://info.cern.ch/hypertext/WWW/TheProject.html)
+
 ## Structure of a lecture
 
 ### HTML intro
