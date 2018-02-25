@@ -9,7 +9,7 @@
 ## Review of week 00 homework:
 
 * ask if everybody read the chapters from the frontend handbook
-* ask the questions from the bullet points mentioned in the `Week0/Readme.md` (explain in own words)
+* ask the questions from the bullet points mentioned in the [Week0/Readme.md](https://github.com/HackYourFuture-CPH/HTML-CSS/tree/master/Week0) (explain in own words)
 * ask what is ARIA (explain in own words)
 
 ## Structure of a lecture
@@ -21,8 +21,8 @@ _make the examples brutally simplistic_
 * create [barebones HTML document](http://www.coreservlets.com/html5-tutorial/basic-html5-document.html)
 * create hello world
 * get to know the text editor (closing tags, indentation etc.)
-    * walk through special characters - does it work for everybody? - give people 3 minutes
-    * page of most commont special charaters: type them in: `!!@#$%^&*()}{|"?><>}`
+  * walk through special characters - does it work for everybody? - give people 3 minutes
+  * page of most commont special charaters: type them in: `!!@#$%^&*()}{|"?><>}`
 * intro to DOM (it exists, there's a hierarchy of elements)
 * illustrate hierarchy with `<p><i></i></p>`
 * mention [MDN](https://developer.mozilla.org/en-US/docs/) as a good source of information look for `<p>`
@@ -46,7 +46,7 @@ _make the examples brutally simplistic_
 
 * take a layout and code it live with students:
 
-    * illustrate: Naming things, how to structure a CSS file [wikipedia](https://en.wikipedia.org/wiki/North_Ronaldsay_sheep) or [BBC](http://www.bbc.com/earth/story/20160126-the-monkeys-that-sailed-across-the-atlantic-to-south-america) can be used to illustrate the use of semantic elements)
+  * illustrate: Naming things, how to structure a CSS file [wikipedia](https://en.wikipedia.org/wiki/North_Ronaldsay_sheep) or [BBC](http://www.bbc.com/earth/story/20160126-the-monkeys-that-sailed-across-the-atlantic-to-south-america) can be used to illustrate the use of semantic elements)
 
 * aria (semantic HTML, forms if we get there)
 
@@ -92,9 +92,9 @@ _make the examples brutally simplistic_
 
 * [link to the image](http://1.bp.blogspot.com/-TQiNTNxcfJg/ThsKEfccf1I/AAAAAAAAAR8/2i0-56tLzmc/s1600/desktop_landscape_wallpaper.jpg)
 * fonts:
-    * Serif: Times New Roman
-    * Sans-serif: Arial
+  * Serif: Times New Roman
+  * Sans-serif: Arial
 * colors:
-    * #43948e
-    * #594b3a
-    * #000
+  * #43948e
+  * #594b3a
+  * #000
